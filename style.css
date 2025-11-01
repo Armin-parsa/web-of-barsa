@@ -1,0 +1,36 @@
+
+body{
+    background-image: url(https://i.sstatic.net/E4Cpw.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    margin: 0;
+}
+#ab{
+        text-transform: uppercase ;
+}
+#ac{
+text-shadow:5px 5px 5px;
+}
+#ac:hover{
+text-shadow:5px 5px 10px;
+text-transform: uppercase;
+}
+a{
+text-decoration: none;
+}
+
+#yu{
+border: 4px dashed black;
+}
+#yu{
+outline: 4px dashed  white;
+}
+#er{
+ text-transform: uppercase ;     
+}
